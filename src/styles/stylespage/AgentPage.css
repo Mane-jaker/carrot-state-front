@@ -1,0 +1,28 @@
+.btpro{
+    background-color: #2B4C7E;
+    color: white;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.card-client{
+    margin: 2rem;
+    border-radius: 0.25rem;
+    background-color: rgb(255, 255, 255);
+    height: 12rem;
+}
+
+.client-ver{
+    background: rgba(51, 151, 255, 0.36);
+    border-radius: 15px 15px 0px 0px;
+}
+
+.contactao{
+    background: #EFE3E3;
+    border-radius: 0px 0px 15px 15px;
+}
+
+.scrol-client{
+    overflow-y: scroll;
+    height: 6rem;
+}
